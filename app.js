@@ -4,7 +4,7 @@
 
 /* -------------------------------------------------------- */
 
-const NAME = "Reyes";
+const NAME = "Adithya";
 
 const CARDS = [
   {
