@@ -9,12 +9,12 @@ const NAME = "Adithya";
 const CARDS = [
   {
     name: "ProtonMail",
-    icon: "mail",
+    icon: "ri-mail-fill",
     link: "https://mail.protonmail.com/u/0/inbox",
   },
   {
     name: "Your Devices",
-    icon: "ri-lock-line",
+    icon: "ri-lock-fill",
     link: "https://myaccount.google.com/device-activity",
   },
   {
@@ -34,8 +34,18 @@ const CARDS = [
   },
   {
     name: "Chat",
-    icon: "ri-chat-3-line",
+    icon: "ri-chat-3-fill",
     link: "https://app.schildi.chat/",
+  },
+  {
+    name: "Youtube",
+    icon: "ri-youtube-fill",
+    link: "https://youtube.com/",
+  },
+  {
+    name: "WhatsApp",
+    icon: "ri-whatsapp-fill",
+    link: "https://web.whatsapp.com/",
   }
 ];
 
