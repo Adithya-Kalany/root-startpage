@@ -36,16 +36,6 @@ const CARDS = [
     name: "Chat",
     icon: "ri-chat-3-fill",
     link: "https://app.schildi.chat/",
-  },
-  {
-    name: "Youtube",
-    icon: "ri-youtube-fill",
-    link: "https://youtube.com/",
-  },
-  {
-    name: "WhatsApp",
-    icon: "ri-whatsapp-fill",
-    link: "https://web.whatsapp.com/",
   }
 ];
 
