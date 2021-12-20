@@ -8,19 +8,19 @@ const NAME = "Adithya";
 
 const CARDS = [
   {
-    name: "Apple Music",
-    icon: "ri-music-2-fill",
-    link: "https://music.apple.com/us/browse",
+    name: "ProtonMail",
+    icon: "mail",
+    link: "https://mail.protonmail.com/u/0/inbox",
   },
   {
-    name: "Reddit",
-    icon: "ri-reddit-fill",
-    link: "https://www.reddit.com/",
+    name: "Your Devices",
+    icon: "ri-lock-line",
+    link: "https://myaccount.google.com/device-activity",
   },
   {
-    name: "Figma",
-    icon: "ri-palette-fill",
-    link: "https://www.figma.com/",
+    name: "Student Portal",
+    icon: "ri-terminal-box-fill",
+    link: "https://studentportal.codeyoung.com/",
   },
   {
     name: "Github",
@@ -33,35 +33,10 @@ const CARDS = [
     link: "https://twitter.com",
   },
   {
-    name: "Dribbble",
-    icon: "ri-dribbble-fill",
-    link: "https://dribbble.com/",
-  },
-  {
-    name: "Hashnode",
-    icon: "ri-hashtag",
-    link: "https://hashnode.com/",
-  },
-  {
-    name: "CodeSandbox",
-    icon: "ri-cloud-fill",
-    link: "https://codesandbox.io/dashboard/",
-  },
-  {
-    name: "YouTube",
-    icon: "ri-youtube-fill",
-    link: "https://www.youtube.com/",
-  },
-  {
-    name: "LinkedIn",
-    icon: "ri-linkedin-fill",
-    link: "https://www.linkedin.com/",
-  },
-  {
-    name: "Gmail",
-    icon: "ri-google-fill",
-    link: "https://mail.google.com/",
-  },
+    name: "Chat",
+    icon: "ri-chat-3-line",
+    link: "https://app.schildi.chat/",
+  }
 ];
 
 /* -------------------------------------------------------- */
